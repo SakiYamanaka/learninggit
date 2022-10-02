@@ -1,1 +1,9 @@
-{"version":3,"sources":["try.css","try.scss"],"names":[],"mappings":"AAAA,gBAAgB;ACEhB;EACE,cAAA;ADAF","file":"try.css"}
+{
+    "version": 3,
+    "mappings": ";AAAA,IAAI,CAAJ,YAAI;AAEJ,AAAA,IAAI,CAAC;EACH,uBAAuB;CAYxB",
+    "sources": [
+        "try.scss"
+    ],
+    "names": [],
+    "file": "try.css"
+}
